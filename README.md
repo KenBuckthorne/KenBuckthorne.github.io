@@ -55,7 +55,7 @@ Tel no. - 871-4241
 Mob. no. - 0983-852-6265
 
 **Open**
-*Mon-Fri*
+*Mon-Sun*
 *12pm*
 **Close**
 *12am*
