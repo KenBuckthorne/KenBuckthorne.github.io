@@ -16,6 +16,7 @@
 - T-bone - *1206₱/lb*
 - Filet Mignon - *1321₱/lb*
 ---
+
 **Steak's Doneness**
 
 ![Steak's Doneness](https://steakandco.files.wordpress.com/2012/11/degrees2.jpg)
@@ -26,6 +27,22 @@
 - Medium Well
 - Well Done
 ---
+
 ***"Our finest chef preparing the meal."***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeO0tdKBAag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+**Reviews**
+
+**Joe Doss (William)**
+⭐⭐⭐⭐⭐
+*"Best steakhouse I ever went to."*
+
+**Kareon Foster**
+⭐⭐⭐⭐⭐
+*"The steak was cooked perfectly, and the diner is beautifully decorated. Best well spent money."*
+
+**Michael Moss"**
+⭐⭐⭐⭐⭐
+"The customer service is one of the best"
+---
