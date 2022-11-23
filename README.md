@@ -31,31 +31,33 @@
 ***"Our finest chef preparing the meal."***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeO0tdKBAag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-**Reviews**
 
-**Joe Doss (William)**
-⭐⭐⭐⭐⭐
+---
+**Reviews:**
+
+**Joe Doss (William)**<br>
+⭐⭐⭐⭐⭐<br>
 *"Best steakhouse I ever went to."*
 
-**Kareon Foster**
-⭐⭐⭐⭐⭐
+**Kareon Foster**<br>
+⭐⭐⭐⭐⭐<br>
 *"The steak was cooked perfectly, and the diner is beautifully decorated. Best well spent money."*
 
-**Michael Moss**
-⭐⭐⭐⭐⭐
+**Michael Moss**<br>
+⭐⭐⭐⭐⭐<br>
 *"The customer service is one of the best."*
+
 ---
 
-**Address**
+**Address**<br>
 *J58W+QGM, MPLAZA Diversion Road, Naga*
 
-**Reach us in this numbers to make a reservation.**
-Tel no. - 871-4241
+**Reach us in this numbers to make a reservation.**<br>
+Tel no. - 871-4241<br>
 Mob. no. - 0983-852-6265
 
-**Open**
-*Mon-Sun*
-*12pm*
-**Close**
+**Open**<br>
+*Mon-Sun*<br>
+*12pm*<br>
+**Close**<br>
 *12am*
