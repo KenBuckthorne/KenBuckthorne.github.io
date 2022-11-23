@@ -42,7 +42,20 @@
 ⭐⭐⭐⭐⭐
 *"The steak was cooked perfectly, and the diner is beautifully decorated. Best well spent money."*
 
-**Michael Moss"**
+**Michael Moss**
 ⭐⭐⭐⭐⭐
-"The customer service is one of the best"
+*"The customer service is one of the best."*
 ---
+
+**Address**
+*J58W+QGM, MPLAZA Diversion Road, Naga*
+
+**Reach us in this numbers to make a reservation.**
+Tel no. - 871-4241
+Mob. no. - 0983-852-6265
+
+**Open**
+*Mon-Fri*
+*12pm*
+**Close**
+*12am*
