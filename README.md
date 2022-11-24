@@ -1,4 +1,4 @@
-### Welcome to *KenBuckthorne Steakhouse*
+### Welcome to *KenBuckthorne Steakhouse🌿*
 ---
 **Steak Cuts**
 
@@ -15,6 +15,7 @@
 - Porterhouse - *1034₱/lb*
 - T-bone - *1206₱/lb*
 - Filet Mignon - *1321₱/lb*
+
 ---
 
 **Steak's Doneness**
@@ -26,6 +27,7 @@
 - Medium
 - Medium Well
 - Well Done
+
 ---
 
 ***"Our finest chef preparing the meal."***
@@ -61,3 +63,5 @@ Mob. no. - 0983-852-6265
 *12pm*<br>
 **Close**<br>
 *12am*
+
+**Ken Michael Saldo 9-Lewis**
