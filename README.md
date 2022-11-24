@@ -3,7 +3,9 @@
 **Steak Cuts**
 
 ![Steak Cuts](https://images.saymedia-content.com/.image/t_share/MTc0NjE4Nzk1NTUyNjc5ODgx/cuts-of-beef.png)
+
 ---
+
 **Crowd's Favorite Cuts**
 - Flank - *517₱/lb*                      
 - New York Strip - *747₱/lb*             
@@ -35,6 +37,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeO0tdKBAag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 **Reviews:**
 
 **Joe Doss (William)**<br>
@@ -63,5 +66,7 @@ Mob. no. - 0983-852-6265
 *12pm*<br>
 **Close**<br>
 *12am*
+
+---
 
 **Ken Michael Saldo 9-Lewis**
